@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "praktika", "praktika\praktika.vcxproj", "{A186C961-442C-4EBE-BB5E-5734742A488C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Debug|x64.ActiveCfg = Debug|x64
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Debug|x64.Build.0 = Debug|x64
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Debug|x86.Build.0 = Debug|Win32
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Release|x64.ActiveCfg = Release|x64
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Release|x64.Build.0 = Release|x64
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Release|x86.ActiveCfg = Release|Win32
+		{A186C961-442C-4EBE-BB5E-5734742A488C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61AB0B1D-85C5-465A-B29E-D97F839E0835}
+	EndGlobalSection
+EndGlobal
